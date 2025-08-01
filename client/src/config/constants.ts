@@ -10,10 +10,10 @@ export const PORTFOLIO_CONFIG = {
   // ==============================================
   personal: {
     fullName: "Reza Arifa Rabbani",
-    displayTitle: "Portofolio", // Shown in navigation
+    displayTitle: "About Me!", // Shown in navigation
     location: "Sukabumi, Jawa Barat – Indonesia",
     birthDate: "10 November 2010",
-    status: "Pelajar", // Current status (e.g., "Student", "Freelancer", "Developer")
+    status: "Pelajar sekolah menengah pertama", // Current status (e.g., "Student", "Freelancer", "Developer")
     passion: "Technology & AI",
     
     // Profile & Background Images
@@ -22,8 +22,8 @@ export const PORTFOLIO_CONFIG = {
     
     // About Me Section
     aboutMe: {
-      title: "Tentang Saya",
-      description: "Sejak kecil saya sangat tertarik pada teknologi. Saya ingin terus belajar dan menjadi yang terbaik dalam bidang teknologi dan AI.",
+      title: "About Me",
+      description: "Sejak kecil saya sudah sangat tertarik pada teknologi. Saya ingin terus belajar dan menjadi yang terbaik dalam bidang teknologi.",
       highlights: [
         "Passionate tentang teknologi",
         "Selalu ingin belajar hal baru",
@@ -109,7 +109,7 @@ export const PORTFOLIO_CONFIG = {
       description: "Kumpulan API dan layanan web untuk berbagai keperluan development dan integrasi aplikasi.",
       technologies: ["API", "Backend", "Web Services"],
       status: "Dalam Pengembangan",
-      icon: "Code",
+      icon: "Fire",
       color: "from-purple-500 to-purple-400",
       projectUrl: "https://apiryezx-x.vercel.app",
       demoUrl: "https://apiryezx-x.vercel.app"
