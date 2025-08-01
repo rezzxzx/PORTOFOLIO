@@ -94,7 +94,7 @@ export default function ContactSection() {
                 transition={{ delay: 0.4, duration: 0.8 }}
                 viewport={{ once: true }}
               >
-                "Masa depan milik mereka yang percaya pada keindahan mimpi mereka, dan saya yakin dengan belajar terus-menerus, saya dapat menciptakan dampak positif melalui teknologi."
+                "Your time is limited, so don’t waste it living someone else’s life."
               </motion.p>
               <motion.div
                 className="mt-4"
